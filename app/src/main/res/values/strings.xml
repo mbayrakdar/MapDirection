@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maps hw3</string>
+    <string name="title_activity_maps">Google Maps</string>
+    <string name="action_settings">Select new locatıon</string>
+
+    <string name="yes">GO TO APP</string>
+    <string name="no">IGNORE</string>
+</resources>
